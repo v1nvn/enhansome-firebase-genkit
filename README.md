@@ -6,7 +6,7 @@
 
 # Awesome Genkit <!-- omit from toc --> with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/xavidop/awesome-genkit/actions/workflows/lint.yaml/badge.svg)](https://github.com/xavidop/awesome-genkit/actions/workflows/lint.yaml) ⭐ 109 | 🐛 0 | 📅 2026-01-26 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/xavidop/awesome-genkit/actions/workflows/lint.yaml/badge.svg)](https://github.com/xavidop/awesome-genkit/actions/workflows/lint.yaml) ⭐ 112 | 🐛 0 | 📅 2026-02-23 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/)
 
 <!-- subtitle -->
 
@@ -42,8 +42,8 @@ Genkit is a framework designed to help you build AI-powered applications and fea
   * [Python - Official](#python---official)
   * [Golang - Official](#golang---official)
   * [Golang - Community](#golang---community)
-* [Client Libraries](#client-libraries)
   * [Dart - Official](#dart---official)
+  * [Java (Unofficial) - Community](#java-unofficial---community)
 * [API References](#api-references)
 * [Books](#books)
 * [Solutions](#solutions)
@@ -79,9 +79,9 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    * [`genkitx-convex`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/convex) ⭐ 180 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-29 - Plugin for Convex Vector Stores.
    * [`genkitx-hnsw`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/hnsw) ⭐ 180 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-29 - Plugin for HNSW Vector Stores.
    * [`genkitx-qdrant`](https://github.com/qdrant/qdrant-genkit) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-29 - Plugin for Qdrant Vector Stores.
-   * [`genkitx-voiceflow`](https://github.com/xavidop/genkitx-voiceflow) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-20 - Plugin for Voiceflow KB.
+   * [`genkitx-voiceflow`](https://github.com/xavidop/genkitx-voiceflow) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-06 - Plugin for Voiceflow KB.
    * [`genkitx-redis`](https://github.com/retzd-tech/genkitx-redis) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-20 - Plugin for Redis Vector Stores.
-   * [`genkitx-weaviate`](https://github.com/xavidop/genkitx-weaviate) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-21 - Plugin for Weaviate Vector Stores.
+   * [`genkitx-weaviate`](https://github.com/xavidop/genkitx-weaviate) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-06 - Plugin for Weaviate Vector Stores.
    * [`genkitx-mongodb`](https://github.com/mongodb-partners/genkitx-mongodb/tree/main/plugin) ⭐ 0 | 🐛 1 | 🌐 TypeScript | 📅 2025-08-08 - Plugin for MongoDB Vector Stores.
    * [`genkitx-astra-db`](https://genkit.dev/docs/plugins/astra-db/) - Plugin for AstraDB Vector Stores.
    * [`genkitx-pgvector`](https://genkit.dev/docs/plugins/pgvector/) - Plugin for PostgeSQL (PGVector) Vector Stores.
@@ -104,8 +104,8 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    * [`genkitx-groq`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/groq) ⭐ 180 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-29 - Plugin for Groq APIs.
    * [`genkitx-mistral`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/mistral) ⭐ 180 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-29 - Plugin for Mistral AI APIs.
    * [`genkitx-azure-openai`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/azure-openai) ⭐ 180 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-29 - Plugin for Azure OpenAI APIs.
-   * [`genkitx-github`](https://github.com/xavidop/genkitx-github) ⭐ 43 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-20 - Plugin for GitHub Models APIs.
-   * [`genkitx-aws-bedrock`](https://github.com/xavidop/genkitx-aws-bedrock) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-20 - Plugin for AWS Bedrock APIs.
+   * [`genkitx-github`](https://github.com/xavidop/genkitx-github) ⭐ 43 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-06 - Plugin for GitHub Models APIs.
+   * [`genkitx-aws-bedrock`](https://github.com/xavidop/genkitx-aws-bedrock) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-06 - Plugin for AWS Bedrock APIs.
    * [`genkitx-deepseek`](https://github.com/oddbit/genkitx-deepseek) ⭐ 7 | 🐛 1 | 🌐 TypeScript | 📅 2025-11-24 - Plugin for Deepseek Cloud APIs.
    * [`genkitx-huggingface`](https://github.com/aciescrest/genkit-huggingface) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-18 - Plugin for Hugging Face Inference APIs.
 4. Evaluator Plugins
@@ -134,7 +134,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    * [`localvec`](https://firebase.google.com/docs/genkit-go/rag) - Plugin for Local Vector Store for development purposes.
    * [`pgvector`](https://genkit.dev/go/docs/plugins/pgvector/) - Plugin for PostgreSQL (PGVector) Vector Stores.
    * [`postgresql`](https://genkit.dev/go/docs/plugins/cloud-sql-pg/) - Plugin for Cloud SQL for PostgreSQL Vector Stores.
-   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 5,528 | 🐛 873 | 🌐 Python | 📅 2026-02-21 - Plugin for Weaviate Vector Stores.
+   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 5,594 | 🐛 902 | 🌐 TypeScript | 📅 2026-03-07 - Plugin for Weaviate Vector Stores.
 3. Monitoring Plugins
    * [`googlecloud`](https://genkit.dev/go/docs/plugins/google-cloud/) - The Google Cloud plugin exports Genkit's telemetry and logging data to Google Cloud's operation suite.
 4. Other Plugins:
@@ -143,18 +143,57 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 ### Golang - Community
 
 1. Monitoring Plugin:
-   * [`opentelemetry`](https://github.com/xavidop/genkit-opentelemetry-go) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2026-02-16 - Plugin for OpenTelemetry to monitor Genkit applications.
+   * [`opentelemetry`](https://github.com/xavidop/genkit-opentelemetry-go) ⭐ 11 | 🐛 0 | 🌐 Go | 📅 2026-02-23 - Plugin for OpenTelemetry to monitor Genkit applications.
 2. Vector Store Plugins
    * [`qdrant`](https://github.com/qdrant/qdrant-genkit/tree/main/go) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-29 - Plugin for Qdrant Vector Stores.
 3. Model / Embedding Plugins
    * [`bedrock`](https://pkg.go.dev/github.com/xavidop/genkit-aws-bedrock-go) - Plugin for AWS Bedrock APIs.
    * [`azureaifoundry`](https://pkg.go.dev/github.com/xavidop/genkit-azure-foundry-go) - Plugin for Azure AI Foundry.
 
-## Client Libraries
-
 ### Dart - Official
 
-* [`dart-client-for-genkit`](https://pub.dev/packages/genkit) - A type-safe Dart client library for calling Genkit flows with streaming support, authentication, and comprehensive error handling.
+1. Core
+   * [`genkit`](https://pub.dev/packages/genkit) - A Dart SDK for Genkit, providing a unified interface for text generation, structured output, tool calling, and agentic workflows.
+2. Model / Embedding Plugins
+   * [`genkit_google_genai`](https://pub.dev/packages/genkit_google_genai) - Google AI plugin for Genkit Dart.
+   * [`genkit_anthropic`](https://pub.dev/packages/genkit_anthropic) - Anthropic plugin for Genkit Dart.
+   * [`genkit_openai`](https://pub.dev/packages/genkit_openai) - OpenAI plugin for Genkit Dart.
+   * [`genkit_chrome`](https://pub.dev/packages/genkit_chrome) - Chrome Prompt API (Gemini Nano) plugin for Genkit Dart.
+   * [`genkit_firebase_ai`](https://pub.dev/packages/genkit_firebase_ai) - Firebase AI plugin for Genkit Dart.
+3. Other Plugins
+   * [`genkit_mcp`](https://pub.dev/packages/genkit_mcp) - Model Context Protocol (MCP) plugin for Genkit Dart.
+   * [`genkit_middleware`](https://pub.dev/packages/genkit_middleware) - Common middlewares (filesystem, skills, toolApproval) for Genkit Dart.
+   * [`genkit_shelf`](https://pub.dev/packages/genkit_shelf) - Shelf HTTP Server integration for Genkit Dart.
+
+### Java (Unofficial) - Community
+
+1. Core
+   * [`genkit-java`](https://github.com/genkit-ai/genkit-java/packages) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - An unofficial Java SDK for Genkit, providing Java support for building AI-powered applications.
+2. Model / Embedding Plugins
+   * [`genkit-plugin-openai`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/openai) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for OpenAI models (GPT-4o, GPT-4o-mini, etc.) and embeddings.
+   * [`genkit-plugin-google-genai`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/google-genai) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for Google Gemini models and Imagen image generation.
+   * [`genkit-plugin-anthropic`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/anthropic) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for Anthropic Claude models.
+   * [`genkit-plugin-aws-bedrock`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/aws-bedrock) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for AWS Bedrock models (Amazon Nova, Claude, LLaMA, Mistral, etc.).
+   * [`genkit-plugin-azure-foundry`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/azure-foundry) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for Azure AI Foundry models.
+   * [`genkit-plugin-xai`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/xai) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for XAI (x.ai) Grok models.
+   * [`genkit-plugin-deepseek`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/deepseek) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for DeepSeek models.
+   * [`genkit-plugin-cohere`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/cohere) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for Cohere Command models.
+   * [`genkit-plugin-mistral`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/mistral) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for Mistral AI models.
+   * [`genkit-plugin-groq`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/groq) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for Groq ultra-fast inference.
+   * [`genkit-plugin-ollama`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/ollama) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for local Ollama models.
+   * [`genkit-plugin-compat-oai`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/compat-oai) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for any OpenAI-compatible API endpoint.
+3. Vector Store Plugins
+   * [`genkit-plugin-localvec`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/localvec) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for local file-based vector store for development.
+   * [`genkit-plugin-firebase`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/firebase) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for Firebase (Firestore vector search, Cloud Functions, telemetry).
+   * [`genkit-plugin-weaviate`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/weaviate) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for Weaviate vector database.
+   * [`genkit-plugin-postgresql`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/postgresql) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for PostgreSQL with pgvector.
+   * [`genkit-plugin-pinecone`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/pinecone) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for Pinecone vector database.
+4. Evaluator Plugins
+   * [`genkit-plugin-evaluators`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/evaluators) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for pre-built RAGAS-style evaluators (faithfulness, relevancy, etc.).
+5. Other Plugins
+   * [`genkit-plugin-jetty`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/jetty) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - HTTP server plugin using Jetty 12.
+   * [`genkit-plugin-spring`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/spring) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - HTTP server plugin using Spring Boot.
+   * [`genkit-plugin-mcp`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/mcp) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Plugin for Model Context Protocol (MCP) client integration.
 
 ## API References
 
@@ -169,8 +208,10 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 ## Solutions
 
 * [`internal AI`](https://github.com/tanabee/internal-ai) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2025-08-05 - An open-source Genkit-based internal AI chat application.
-* [`GCP Cost MCP Server`](https://github.com/nozomi-koborinai/gcp-cost-mcp-server) ⭐ 7 | 🐛 3 | 🌐 Go | 📅 2025-12-02 - An MCP server built with Genkit for Go that enables AI assistants to estimate Google Cloud costs directly, replacing manual use of the GCP Pricing Calculator.
-* [`Perplexity CLI`](https://github.com/xavidop/perplexity-cli) ⭐ 0 | 🐛 7 | 🌐 JavaScript | 📅 2026-02-16 - A command-line interface (CLI) tool that leverages Genkit to provide AI-powered answers to user queries by utilizing web search results from Tavily AI simulating how Perplexity works.
+* [`GCP Cost MCP Server`](https://github.com/nozomi-koborinai/gcp-cost-mcp-server) ⭐ 8 | 🐛 0 | 🌐 Go | 📅 2026-02-22 - An MCP server built with Genkit for Go that enables AI assistants to estimate Google Cloud costs directly, replacing manual use of the GCP Pricing Calculator.
+* [`Genkit AWS Lambda Bedrock`](https://github.com/xavidop/genkit-aws-lambda-bedrock) ⭐ 2 | 🐛 4 | 🌐 TypeScript | 📅 2026-03-01 - A sample project demonstrating how to use Genkit with AWS Lambda and Amazon Bedrock.
+* [`Perplexity CLI`](https://github.com/xavidop/perplexity-cli) ⭐ 0 | 🐛 10 | 🌐 JavaScript | 📅 2026-03-01 - A command-line interface (CLI) tool that leverages Genkit to provide AI-powered answers to user queries by utilizing web search results from Tavily AI simulating how Perplexity works.
+* [`Genkit Azure Function AI Foundry`](https://github.com/xavidop/genkit-azure-function-ai-foundry) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-23 - A sample project demonstrating how to use Genkit with Azure Functions and Azure AI Foundry.
 
 ## Talks
 
@@ -207,6 +248,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 * [Orchestrating Firebase and AI: Genkit architecture example](https://docs.google.com/presentation/d/10F2hjzJhdInSuhDQ8G_B2raGz79mzTRIcWU_59Zh5Y8/edit?usp=sharing) - Presented in a lightning talk at GDG DevFest Tokyo 2024.
 * [Getting Started with AI Image Generation Apps on Flutter, Genkit, and Imagen 3](https://medium.com/@nozomi-koborinai/getting-started-with-ai-image-generation-apps-on-flutter-genkit-and-imagen-3-9a83c63cbdf3) - A guide to building an AI image generation app using Flutter, Genkit, and Google's Imagen 3.
 * [Extending Your AI Application with Genkit MCP](https://medium.com/@nozomi-koborinai/extending-your-ai-application-with-genkit-mcp-475d7533ca9e) - Learn how to integrate Google Maps using Genkit MCP client to query MCP servers for enhanced location-based AI features.
+* [Understanding Model Context Protocol Through Building the Genkit for Dart MCP Plugin](https://koborin.ai/tech/mcp-deep-dive) - A deep dive into the MCP specification, sharing insights gained from implementing the MCP plugin for Genkit Dart.
 * [Genkit vs Agent Development Kit (ADK): Choosing the Right Google‑Backed AI Framework](https://medium.com/@nozomi-koborinai/genkit-vs-agent-development-kit-adk-choosing-the-right-google-backed-ai-framework-1744b73234ac) - A comparison of two Google-backed AI frameworks, helping developers choose the right tool for their needs.
 * [Dart Client for Genkit: Call Genkit Flows from Flutter/Dart](https://medium.com/@nozomi-koborinai/dart-client-for-genkit-call-genkit-flows-from-flutter-dart-b5a2c9b9400e) - A comprehensive guide to using the Dart client library for calling Genkit flows from Flutter and Dart applications with streaming support and type safety.
 * [Gemini in your Slack workspace using Firebase & Genkit](https://dev.to/denisvalasek/gemini-in-your-slack-workspace-using-firebase-genkit-530c) - Learn how to integrate Gemini using Genkit as a Slackbot.
@@ -222,6 +264,8 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
+* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 5,594 | 🐛 902 | 🌐 TypeScript | 📅 2026-03-07 - Official GitHub repository for Genkit.
+* [Genkit Dart GitHub](https://github.com/genkit-ai/genkit-dart) ⭐ 54 | 🐛 38 | 🌐 Dart | 📅 2026-03-06 - Official GitHub repository for Genkit Dart.
+* [Genkit Java GitHub](https://github.com/genkit-ai/genkit-java) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-03-02 - Unofficial GitHub repository for Genkit Java.
 * [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
 * [Genkit Discord server](https://discord.gg/qXt5zzQKpc) - Official Discord server for Genkit.
-* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 5,528 | 🐛 873 | 🌐 Python | 📅 2026-02-21 - Official GitHub repository for Genkit.
