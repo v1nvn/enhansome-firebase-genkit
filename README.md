@@ -6,7 +6,7 @@
 
 # Awesome Genkit <!-- omit from toc --> with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/xavidop/awesome-genkit/actions/workflows/lint.yaml/badge.svg)](https://github.com/xavidop/awesome-genkit/actions/workflows/lint.yaml) ⭐ 115 | 🐛 0 | 📅 2026-02-23 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/xavidop/awesome-genkit/actions/workflows/lint.yaml/badge.svg)](https://github.com/xavidop/awesome-genkit/actions/workflows/lint.yaml) ⭐ 116 | 🐛 0 | 📅 2026-02-23 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/)
 
 <!-- subtitle -->
 
@@ -134,7 +134,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    * [`localvec`](https://firebase.google.com/docs/genkit-go/rag) - Plugin for Local Vector Store for development purposes.
    * [`pgvector`](https://genkit.dev/go/docs/plugins/pgvector/) - Plugin for PostgreSQL (PGVector) Vector Stores.
    * [`postgresql`](https://genkit.dev/go/docs/plugins/cloud-sql-pg/) - Plugin for Cloud SQL for PostgreSQL Vector Stores.
-   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 5,833 | 🐛 851 | 🌐 TypeScript | 📅 2026-04-25 - Plugin for Weaviate Vector Stores.
+   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 5,837 | 🐛 852 | 🌐 TypeScript | 📅 2026-04-26 - Plugin for Weaviate Vector Stores.
 3. Monitoring Plugins
    * [`googlecloud`](https://genkit.dev/go/docs/plugins/google-cloud/) - The Google Cloud plugin exports Genkit's telemetry and logging data to Google Cloud's operation suite.
 4. Other Plugins:
@@ -264,7 +264,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 5,833 | 🐛 851 | 🌐 TypeScript | 📅 2026-04-25 - Official GitHub repository for Genkit.
+* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 5,837 | 🐛 852 | 🌐 TypeScript | 📅 2026-04-26 - Official GitHub repository for Genkit.
 * [Genkit Dart GitHub](https://github.com/genkit-ai/genkit-dart) ⭐ 129 | 🐛 59 | 🌐 Dart | 📅 2026-04-24 - Official GitHub repository for Genkit Dart.
 * [Genkit Java GitHub](https://github.com/genkit-ai/genkit-java) ⭐ 19 | 🐛 2 | 🌐 Java | 📅 2026-04-21 - Unofficial GitHub repository for Genkit Java.
 * [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
