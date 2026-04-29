@@ -79,7 +79,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    * [`genkitx-convex`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/convex) ⭐ 182 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-29 - Plugin for Convex Vector Stores.
    * [`genkitx-hnsw`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/hnsw) ⭐ 182 | 🐛 19 | 🌐 TypeScript | 📅 2026-01-29 - Plugin for HNSW Vector Stores.
    * [`genkitx-qdrant`](https://github.com/qdrant/qdrant-genkit) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-29 - Plugin for Qdrant Vector Stores.
-   * [`genkitx-voiceflow`](https://github.com/xavidop/genkitx-voiceflow) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-23 - Plugin for Voiceflow KB.
+   * [`genkitx-voiceflow`](https://github.com/xavidop/genkitx-voiceflow) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-28 - Plugin for Voiceflow KB.
    * [`genkitx-redis`](https://github.com/retzd-tech/genkitx-redis) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-20 - Plugin for Redis Vector Stores.
    * [`genkitx-weaviate`](https://github.com/xavidop/genkitx-weaviate) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-28 - Plugin for Weaviate Vector Stores.
    * [`genkitx-mongodb`](https://github.com/mongodb-partners/genkitx-mongodb/tree/main/plugin) ⭐ 0 | 🐛 1 | 🌐 TypeScript | 📅 2025-08-08 - Plugin for MongoDB Vector Stores.
@@ -134,7 +134,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    * [`localvec`](https://firebase.google.com/docs/genkit-go/rag) - Plugin for Local Vector Store for development purposes.
    * [`pgvector`](https://genkit.dev/go/docs/plugins/pgvector/) - Plugin for PostgreSQL (PGVector) Vector Stores.
    * [`postgresql`](https://genkit.dev/go/docs/plugins/cloud-sql-pg/) - Plugin for Cloud SQL for PostgreSQL Vector Stores.
-   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 5,841 | 🐛 855 | 🌐 TypeScript | 📅 2026-04-27 - Plugin for Weaviate Vector Stores.
+   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 5,847 | 🐛 859 | 🌐 TypeScript | 📅 2026-04-29 - Plugin for Weaviate Vector Stores.
 3. Monitoring Plugins
    * [`googlecloud`](https://genkit.dev/go/docs/plugins/google-cloud/) - The Google Cloud plugin exports Genkit's telemetry and logging data to Google Cloud's operation suite.
 4. Other Plugins:
@@ -264,8 +264,8 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 5,841 | 🐛 855 | 🌐 TypeScript | 📅 2026-04-27 - Official GitHub repository for Genkit.
-* [Genkit Dart GitHub](https://github.com/genkit-ai/genkit-dart) ⭐ 129 | 🐛 59 | 🌐 Dart | 📅 2026-04-27 - Official GitHub repository for Genkit Dart.
+* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 5,847 | 🐛 859 | 🌐 TypeScript | 📅 2026-04-29 - Official GitHub repository for Genkit.
+* [Genkit Dart GitHub](https://github.com/genkit-ai/genkit-dart) ⭐ 129 | 🐛 64 | 🌐 Dart | 📅 2026-04-29 - Official GitHub repository for Genkit Dart.
 * [Genkit Java GitHub](https://github.com/genkit-ai/genkit-java) ⭐ 19 | 🐛 3 | 🌐 Java | 📅 2026-04-27 - Unofficial GitHub repository for Genkit Java.
 * [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
 * [Genkit Discord server](https://discord.gg/qXt5zzQKpc) - Official Discord server for Genkit.
