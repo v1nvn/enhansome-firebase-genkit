@@ -17,7 +17,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-05-15T21:50:49Z",
+                "last_commit": "2026-05-20T04:28:17Z",
                 "owner": "xavidop",
                 "repo": "genkitx-github",
                 "stars": 43
@@ -95,7 +95,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-05-18T18:47:13Z",
+                "last_commit": "2026-05-20T04:37:46Z",
                 "owner": "genkit-ai",
                 "repo": "aws-bedrock-js-plugin",
                 "stars": 13
@@ -133,7 +133,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T21:50:49Z",
+            "last_commit": "2026-05-20T04:28:17Z",
             "owner": "xavidop",
             "repo": "genkitx-github",
             "stars": 43
@@ -210,7 +210,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-05-18T22:23:21Z",
+                "last_commit": "2026-05-20T04:26:25Z",
                 "owner": "xavidop",
                 "repo": "genkitx-voiceflow",
                 "stars": 6
@@ -248,7 +248,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-05-16T08:57:36Z",
+                "last_commit": "2026-05-20T06:01:59Z",
                 "owner": "xavidop",
                 "repo": "genkitx-weaviate",
                 "stars": 1
@@ -940,10 +940,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-19T05:11:30Z",
+            "last_commit": "2026-05-20T05:05:33Z",
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 5981
+            "stars": 5990
           }
         },
         {
@@ -956,7 +956,7 @@
             "last_commit": "2026-05-12T20:39:40Z",
             "owner": "genkit-ai",
             "repo": "genkit-dart",
-            "stars": 134
+            "stars": 135
           }
         },
         {
@@ -977,7 +977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-19T06:09:34.594Z",
+    "last_updated": "2026-05-20T06:09:19.987Z",
     "original_repository": "xavidop/awesome-firebase-genkit",
     "source_repository": "v1nvn/enhansome-firebase-genkit",
     "source_repository_description": null,
