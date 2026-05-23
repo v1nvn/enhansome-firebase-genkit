@@ -17,7 +17,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-05-20T04:28:17Z",
+                "last_commit": "2026-05-22T09:29:55Z",
                 "owner": "xavidop",
                 "repo": "genkitx-github",
                 "stars": 43
@@ -95,7 +95,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-05-22T00:13:03Z",
+                "last_commit": "2026-05-22T23:43:52Z",
                 "owner": "genkit-ai",
                 "repo": "aws-bedrock-js-plugin",
                 "stars": 13
@@ -133,7 +133,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-20T04:28:17Z",
+            "last_commit": "2026-05-22T09:29:55Z",
             "owner": "xavidop",
             "repo": "genkitx-github",
             "stars": 43
@@ -210,7 +210,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-05-20T04:26:25Z",
+                "last_commit": "2026-05-22T09:40:43Z",
                 "owner": "xavidop",
                 "repo": "genkitx-voiceflow",
                 "stars": 6
@@ -248,7 +248,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-05-20T06:01:59Z",
+                "last_commit": "2026-05-22T10:33:17Z",
                 "owner": "xavidop",
                 "repo": "genkitx-weaviate",
                 "stars": 1
@@ -381,6 +381,19 @@
                 "owner": "orchlab",
                 "repo": "genkitx-posthog",
                 "stars": 1
+              }
+            },
+            {
+              "children": [],
+              "description": "Plugin that registers four agent-callable tools (reasoning, code, anti-deception, memory) the model calls before generating. Each call returns a structured cognitive scaffold from the Ejentum Reasoning Harness.",
+              "title": "",
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-05-22T22:48:15Z",
+                "owner": "ejentum",
+                "repo": "ejentum-genkit",
+                "stars": 0
               }
             }
           ],
@@ -940,10 +953,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-22T04:07:54Z",
+            "last_commit": "2026-05-23T03:00:39Z",
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6018
+            "stars": 6024
           }
         },
         {
@@ -953,10 +966,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-05-20T17:32:58Z",
+            "last_commit": "2026-05-22T20:01:31Z",
             "owner": "genkit-ai",
             "repo": "genkit-dart",
-            "stars": 135
+            "stars": 136
           }
         },
         {
@@ -977,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-22T06:08:58.381Z",
+    "last_updated": "2026-05-23T05:40:26.862Z",
     "original_repository": "xavidop/awesome-firebase-genkit",
     "source_repository": "v1nvn/enhansome-firebase-genkit",
     "source_repository_description": null,
