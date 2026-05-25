@@ -390,7 +390,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-05-22T22:48:15Z",
+                "last_commit": "2026-05-24T09:29:45Z",
                 "owner": "ejentum",
                 "repo": "ejentum-genkit",
                 "stars": 0
@@ -953,10 +953,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-24T02:42:53Z",
+            "last_commit": "2026-05-25T04:28:50Z",
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6028
+            "stars": 6031
           }
         },
         {
@@ -990,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-24T06:03:14.406Z",
+    "last_updated": "2026-05-25T06:36:48.881Z",
     "original_repository": "xavidop/awesome-firebase-genkit",
     "source_repository": "v1nvn/enhansome-firebase-genkit",
     "source_repository_description": null,

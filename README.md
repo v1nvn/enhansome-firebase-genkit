@@ -6,7 +6,7 @@
 
 # Awesome Genkit <!-- omit from toc --> with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/xavidop/awesome-genkit/actions/workflows/lint.yaml/badge.svg)](https://github.com/xavidop/awesome-genkit/actions/workflows/lint.yaml) ⭐ 120 | 🐛 0 | 📅 2026-05-22 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/xavidop/awesome-genkit/actions/workflows/lint.yaml/badge.svg)](https://github.com/xavidop/awesome-genkit/actions/workflows/lint.yaml) ⭐ 122 | 🐛 0 | 📅 2026-05-22 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/)
 
 <!-- subtitle -->
 
@@ -96,7 +96,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    * [`genkitx-langfuse`](https://github.com/marcelfolaron/genkitx-langfuse) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-11 - Plugin to integrate with Langfuse for telemetry and prompt management.
    * [`genkitx-posthog`](https://github.com/orchlab/genkitx-posthog) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-16 - Plugin to integrate with PostHog for telemetry and analytics.
    * [`genkitx-rxjs`](https://github.com/pavelgj/genkitx-rxjs) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-17 - A simple RxJS helper/adapter for Genkit.
-   * [`ejentum-genkit`](https://github.com/ejentum/ejentum-genkit) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-22 - Plugin that registers four agent-callable tools (reasoning, code, anti-deception, memory) the model calls before generating. Each call returns a structured cognitive scaffold from the Ejentum Reasoning Harness.
+   * [`ejentum-genkit`](https://github.com/ejentum/ejentum-genkit) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-24 - Plugin that registers four agent-callable tools (reasoning, code, anti-deception, memory) the model calls before generating. Each call returns a structured cognitive scaffold from the Ejentum Reasoning Harness.
    * [`@agentic/genkit`](https://docs.agentic.so/marketplace/ts-sdks/genkit) - Agentic Tools adapter for the Genkit SDK.
    * [`@auth0/ai-genkit`](https://genkit.dev/docs/plugins/auth0/) - Official Auth0 plugin for Genkit that provides authentication and authorization capabilities.
 3. Model / Embedding Plugins
@@ -135,7 +135,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    * [`localvec`](https://firebase.google.com/docs/genkit-go/rag) - Plugin for Local Vector Store for development purposes.
    * [`pgvector`](https://genkit.dev/go/docs/plugins/pgvector/) - Plugin for PostgreSQL (PGVector) Vector Stores.
    * [`postgresql`](https://genkit.dev/go/docs/plugins/cloud-sql-pg/) - Plugin for Cloud SQL for PostgreSQL Vector Stores.
-   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 6,028 | 🐛 840 | 🌐 TypeScript | 📅 2026-05-24 - Plugin for Weaviate Vector Stores.
+   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 6,031 | 🐛 840 | 🌐 TypeScript | 📅 2026-05-25 - Plugin for Weaviate Vector Stores.
 3. Monitoring Plugins
    * [`googlecloud`](https://genkit.dev/go/docs/plugins/google-cloud/) - The Google Cloud plugin exports Genkit's telemetry and logging data to Google Cloud's operation suite.
 4. Other Plugins:
@@ -266,7 +266,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 6,028 | 🐛 840 | 🌐 TypeScript | 📅 2026-05-24 - Official GitHub repository for Genkit.
+* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 6,031 | 🐛 840 | 🌐 TypeScript | 📅 2026-05-25 - Official GitHub repository for Genkit.
 * [Genkit Dart GitHub](https://github.com/genkit-ai/genkit-dart) ⭐ 136 | 🐛 66 | 🌐 Dart | 📅 2026-05-22 - Official GitHub repository for Genkit Dart.
 * [Genkit Java GitHub](https://github.com/genkit-ai/genkit-java) ⭐ 21 | 🐛 3 | 🌐 Java | 📅 2026-05-21 - Unofficial GitHub repository for Genkit Java.
 * [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
