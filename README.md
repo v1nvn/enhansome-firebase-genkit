@@ -135,7 +135,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    * [`localvec`](https://firebase.google.com/docs/genkit-go/rag) - Plugin for Local Vector Store for development purposes.
    * [`pgvector`](https://genkit.dev/go/docs/plugins/pgvector/) - Plugin for PostgreSQL (PGVector) Vector Stores.
    * [`postgresql`](https://genkit.dev/go/docs/plugins/cloud-sql-pg/) - Plugin for Cloud SQL for PostgreSQL Vector Stores.
-   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 6,068 | 🐛 804 | 🌐 TypeScript | 📅 2026-05-30 - Plugin for Weaviate Vector Stores.
+   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 6,078 | 🐛 805 | 🌐 TypeScript | 📅 2026-05-31 - Plugin for Weaviate Vector Stores.
 3. Monitoring Plugins
    * [`googlecloud`](https://genkit.dev/go/docs/plugins/google-cloud/) - The Google Cloud plugin exports Genkit's telemetry and logging data to Google Cloud's operation suite.
 4. Other Plugins:
@@ -210,8 +210,8 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 * [`internal AI`](https://github.com/tanabee/internal-ai) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2025-08-05 - An open-source Genkit-based internal AI chat application.
 * [`GCP Cost MCP Server`](https://github.com/nozomi-koborinai/gcp-cost-mcp-server) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2026-02-22 - An MCP server built with Genkit for Go that enables AI assistants to estimate Google Cloud costs directly, replacing manual use of the GCP Pricing Calculator.
+* [`Genkit Kraft`](https://github.com/DEEJ4Y/genkitkraft) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2026-05-17 - A self-hostable LLM agent platform built on the Genkit Go SDK that lets you configure, test, and deploy AI agents through a visual UI, OpenAI-compatible REST API, and MCP server support for use with AI clients like Claude.
 * [`Genkit AWS Lambda Bedrock`](https://github.com/xavidop/genkit-aws-lambda-bedrock) ⭐ 2 | 🐛 7 | 🌐 TypeScript | 📅 2026-04-17 - A sample project demonstrating how to use Genkit with AWS Lambda and Amazon Bedrock.
-* [`Genkit Kraft`](https://github.com/DEEJ4Y/genkitkraft) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-05-17 - A self-hostable LLM agent platform built on the Genkit Go SDK that lets you configure, test, and deploy AI agents through a visual UI, OpenAI-compatible REST API, and MCP server support for use with AI clients like Claude.
 * [`Perplexity CLI`](https://github.com/xavidop/perplexity-cli) ⭐ 0 | 🐛 10 | 🌐 JavaScript | 📅 2026-03-01 - A command-line interface (CLI) tool that leverages Genkit to provide AI-powered answers to user queries by utilizing web search results from Tavily AI simulating how Perplexity works.
 * [`Genkit Azure Function AI Foundry`](https://github.com/xavidop/genkit-azure-function-ai-foundry) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-23 - A sample project demonstrating how to use Genkit with Azure Functions and Azure AI Foundry.
 
@@ -266,8 +266,8 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 6,068 | 🐛 804 | 🌐 TypeScript | 📅 2026-05-30 - Official GitHub repository for Genkit.
-* [Genkit Dart GitHub](https://github.com/genkit-ai/genkit-dart) ⭐ 138 | 🐛 68 | 🌐 Dart | 📅 2026-05-29 - Official GitHub repository for Genkit Dart.
+* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 6,078 | 🐛 805 | 🌐 TypeScript | 📅 2026-05-31 - Official GitHub repository for Genkit.
+* [Genkit Dart GitHub](https://github.com/genkit-ai/genkit-dart) ⭐ 139 | 🐛 68 | 🌐 Dart | 📅 2026-05-29 - Official GitHub repository for Genkit Dart.
 * [Genkit Java GitHub](https://github.com/genkit-ai/genkit-java) ⭐ 21 | 🐛 4 | 🌐 Java | 📅 2026-05-25 - Unofficial GitHub repository for Genkit Java.
 * [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
 * [Genkit Discord server](https://discord.gg/qXt5zzQKpc) - Official Discord server for Genkit.
