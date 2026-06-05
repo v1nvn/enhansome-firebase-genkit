@@ -95,7 +95,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-06-04T03:31:48Z",
+                "last_commit": "2026-06-04T22:26:51Z",
                 "owner": "genkit-ai",
                 "repo": "aws-bedrock-js-plugin",
                 "stars": 13
@@ -953,10 +953,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-04T02:47:43Z",
+            "last_commit": "2026-06-04T18:34:12Z",
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6091
+            "stars": 6088
           }
         },
         {
@@ -990,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-04T06:43:41.327Z",
+    "last_updated": "2026-06-05T06:24:41.586Z",
     "original_repository": "xavidop/awesome-firebase-genkit",
     "source_repository": "v1nvn/enhansome-firebase-genkit",
     "source_repository_description": null,
