@@ -17,7 +17,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-06-11T21:47:38Z",
+                "last_commit": "2026-06-12T21:43:51Z",
                 "owner": "xavidop",
                 "repo": "genkitx-github",
                 "stars": 44
@@ -33,7 +33,7 @@
                 "last_commit": "2026-01-29T13:03:27Z",
                 "owner": "BloomLabsInc",
                 "repo": "genkit-plugins",
-                "stars": 181
+                "stars": 182
               }
             },
             {
@@ -46,7 +46,7 @@
                 "last_commit": "2026-01-29T13:03:27Z",
                 "owner": "BloomLabsInc",
                 "repo": "genkit-plugins",
-                "stars": 181
+                "stars": 182
               }
             },
             {
@@ -59,7 +59,7 @@
                 "last_commit": "2026-01-29T13:03:27Z",
                 "owner": "BloomLabsInc",
                 "repo": "genkit-plugins",
-                "stars": 181
+                "stars": 182
               }
             },
             {
@@ -72,7 +72,7 @@
                 "last_commit": "2026-01-29T13:03:27Z",
                 "owner": "BloomLabsInc",
                 "repo": "genkit-plugins",
-                "stars": 181
+                "stars": 182
               }
             },
             {
@@ -85,7 +85,7 @@
                 "last_commit": "2026-01-29T13:03:27Z",
                 "owner": "BloomLabsInc",
                 "repo": "genkit-plugins",
-                "stars": 181
+                "stars": 182
               }
             },
             {
@@ -95,7 +95,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-06-11T22:24:09Z",
+                "last_commit": "2026-06-12T22:25:11Z",
                 "owner": "genkit-ai",
                 "repo": "aws-bedrock-js-plugin",
                 "stars": 13
@@ -133,7 +133,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-11T21:47:38Z",
+            "last_commit": "2026-06-12T21:43:51Z",
             "owner": "xavidop",
             "repo": "genkitx-github",
             "stars": 44
@@ -151,7 +151,7 @@
                 "last_commit": "2026-01-29T13:03:27Z",
                 "owner": "BloomLabsInc",
                 "repo": "genkit-plugins",
-                "stars": 181
+                "stars": 182
               }
             },
             {
@@ -164,7 +164,7 @@
                 "last_commit": "2026-01-29T13:03:27Z",
                 "owner": "BloomLabsInc",
                 "repo": "genkit-plugins",
-                "stars": 181
+                "stars": 182
               }
             },
             {
@@ -248,7 +248,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-06-11T15:10:12Z",
+                "last_commit": "2026-06-12T23:33:27Z",
                 "owner": "xavidop",
                 "repo": "genkitx-weaviate",
                 "stars": 1
@@ -276,7 +276,7 @@
             "last_commit": "2026-01-29T13:03:27Z",
             "owner": "BloomLabsInc",
             "repo": "genkit-plugins",
-            "stars": 181
+            "stars": 182
           }
         },
         {
@@ -318,7 +318,7 @@
                 "last_commit": "2026-01-29T13:03:27Z",
                 "owner": "BloomLabsInc",
                 "repo": "genkit-plugins",
-                "stars": 181
+                "stars": 182
               }
             },
             {
@@ -405,7 +405,7 @@
             "last_commit": "2026-01-29T13:03:27Z",
             "owner": "BloomLabsInc",
             "repo": "genkit-plugins",
-            "stars": 181
+            "stars": 182
           }
         }
       ],
@@ -953,10 +953,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-12T06:42:06Z",
+            "last_commit": "2026-06-12T23:10:54Z",
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6103
+            "stars": 6108
           }
         },
         {
@@ -990,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-12T06:43:03.497Z",
+    "last_updated": "2026-06-13T06:18:14.761Z",
     "original_repository": "xavidop/awesome-firebase-genkit",
     "source_repository": "v1nvn/enhansome-firebase-genkit",
     "source_repository_description": null,
